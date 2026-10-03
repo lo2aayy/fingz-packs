@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "id": "international/free/general_en",
+      "country": "international",
+      "category": "general",
+      "lang": "en",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/international/free/general_en.json"
+    }
+  ]
+}
