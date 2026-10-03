@@ -6,7 +6,7 @@
       "category": "geography",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_eg/geography.json"
     },
     {
@@ -15,7 +15,7 @@
       "category": "knowledge",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_eg/knowledge.json"
     },
     {
@@ -24,7 +24,7 @@
       "category": "missing_word",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_eg/missing_word.json"
     },
     {
@@ -33,7 +33,7 @@
       "category": "movies",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_eg/movies.json"
     },
     {
@@ -42,7 +42,7 @@
       "category": "name3",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_eg/name3.json"
     },
     {
@@ -51,7 +51,7 @@
       "category": "reversed",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_eg/reversed.json"
     },
     {
@@ -60,7 +60,7 @@
       "category": "geography",
       "lang": "ar_en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_en/geography.json"
     },
     {
@@ -69,7 +69,7 @@
       "category": "knowledge",
       "lang": "ar_en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_en/knowledge.json"
     },
     {
@@ -78,7 +78,7 @@
       "category": "missing_word",
       "lang": "ar_en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_en/missing_word.json"
     },
     {
@@ -87,7 +87,7 @@
       "category": "movies",
       "lang": "ar_en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_en/movies.json"
     },
     {
@@ -96,7 +96,7 @@
       "category": "name3",
       "lang": "ar_en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_en/name3.json"
     },
     {
@@ -105,7 +105,7 @@
       "category": "reversed",
       "lang": "ar_en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_en/reversed.json"
     },
     {
@@ -114,7 +114,7 @@
       "category": "geography",
       "lang": "en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/en/geography.json"
     },
     {
@@ -123,7 +123,7 @@
       "category": "knowledge",
       "lang": "en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/en/knowledge.json"
     },
     {
@@ -132,7 +132,7 @@
       "category": "missing_word",
       "lang": "en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/international/free/en/missing_word.json"
     },
     {
@@ -141,7 +141,7 @@
       "category": "movies",
       "lang": "en",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/en/movies.json"
     },
     {
@@ -150,7 +150,7 @@
       "category": "name3",
       "lang": "en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/international/free/en/name3.json"
     },
     {
@@ -159,7 +159,7 @@
       "category": "reversed",
       "lang": "en",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/international/free/en/reversed.json"
     }
   ]
