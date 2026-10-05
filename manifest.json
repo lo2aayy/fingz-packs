@@ -1,6 +1,15 @@
 {
   "packs": [
     {
+      "id": "egypt/free/ar_eg/anagram",
+      "country": "egypt",
+      "category": "anagram",
+      "lang": "ar_eg",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/egypt/free/ar_eg/anagram.json"
+    },
+    {
       "id": "egypt/free/ar_eg/geography",
       "country": "egypt",
       "category": "geography",
@@ -24,7 +33,7 @@
       "category": "missing_word",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/egypt/free/ar_eg/missing_word.json"
     },
     {
@@ -78,7 +87,7 @@
       "category": "missing_word",
       "lang": "ar_en",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/ar_en/missing_word.json"
     },
     {
@@ -132,7 +141,7 @@
       "category": "missing_word",
       "lang": "en",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/international/free/en/missing_word.json"
     },
     {
