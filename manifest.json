@@ -6,7 +6,7 @@
       "category": "anagram",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/ar_eg/anagram.json"
     },
     {
@@ -53,6 +53,15 @@
       "tier": "free",
       "version": 3,
       "path": "packs/egypt/free/ar_eg/name3.json"
+    },
+    {
+      "id": "egypt/free/ar_eg/object",
+      "country": "egypt",
+      "category": "object",
+      "lang": "ar_eg",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/egypt/free/ar_eg/object.json"
     },
     {
       "id": "egypt/free/ar_eg/reversed",
@@ -116,6 +125,15 @@
       "tier": "free",
       "version": 4,
       "path": "packs/egypt/free/ar_en/reversed.json"
+    },
+    {
+      "id": "germany/free/de_de/object",
+      "country": "germany",
+      "category": "object",
+      "lang": "de_de",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/germany/free/de_de/object.json"
     },
     {
       "id": "international/free/en/geography",
