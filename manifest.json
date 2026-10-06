@@ -6,7 +6,7 @@
       "category": "anagram",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/ar_eg/anagram.json"
     },
     {
@@ -60,7 +60,7 @@
       "category": "reversed",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 5,
+      "version": 6,
       "path": "packs/egypt/free/ar_eg/reversed.json"
     },
     {
