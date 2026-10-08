@@ -69,62 +69,17 @@
       "category": "reversed",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 6,
+      "version": 7,
       "path": "packs/egypt/free/ar_eg/reversed.json"
     },
     {
-      "id": "egypt/free/ar_en/geography",
-      "country": "egypt",
-      "category": "geography",
-      "lang": "ar_en",
+      "id": "germany/free/de_de/closest",
+      "country": "germany",
+      "category": "closest",
+      "lang": "de_de",
       "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_en/geography.json"
-    },
-    {
-      "id": "egypt/free/ar_en/knowledge",
-      "country": "egypt",
-      "category": "knowledge",
-      "lang": "ar_en",
-      "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_en/knowledge.json"
-    },
-    {
-      "id": "egypt/free/ar_en/missing_word",
-      "country": "egypt",
-      "category": "missing_word",
-      "lang": "ar_en",
-      "tier": "free",
-      "version": 4,
-      "path": "packs/egypt/free/ar_en/missing_word.json"
-    },
-    {
-      "id": "egypt/free/ar_en/movies",
-      "country": "egypt",
-      "category": "movies",
-      "lang": "ar_en",
-      "tier": "free",
-      "version": 4,
-      "path": "packs/egypt/free/ar_en/movies.json"
-    },
-    {
-      "id": "egypt/free/ar_en/name3",
-      "country": "egypt",
-      "category": "name3",
-      "lang": "ar_en",
-      "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_en/name3.json"
-    },
-    {
-      "id": "egypt/free/ar_en/reversed",
-      "country": "egypt",
-      "category": "reversed",
-      "lang": "ar_en",
-      "tier": "free",
-      "version": 4,
-      "path": "packs/egypt/free/ar_en/reversed.json"
+      "version": 1,
+      "path": "packs/germany/free/de_de/closest.json"
     },
     {
       "id": "germany/free/de_de/object",
@@ -134,6 +89,15 @@
       "tier": "free",
       "version": 3,
       "path": "packs/germany/free/de_de/object.json"
+    },
+    {
+      "id": "international/free/en/countries",
+      "country": "international",
+      "category": "countries",
+      "lang": "en",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/international/free/en/countries.json"
     },
     {
       "id": "international/free/en/geography",
