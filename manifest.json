@@ -24,7 +24,7 @@
       "category": "knowledge",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/egypt/free/ar_eg/knowledge.json"
     },
     {
@@ -60,7 +60,7 @@
       "category": "object",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/free/ar_eg/object.json"
     },
     {
